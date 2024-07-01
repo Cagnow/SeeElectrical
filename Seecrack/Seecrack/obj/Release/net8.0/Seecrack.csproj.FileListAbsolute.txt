@@ -1,0 +1,17 @@
+C:\Users\gpour\source\repos\Seecrack\Seecrack\bin\Release\net8.0\Seecrack.exe
+C:\Users\gpour\source\repos\Seecrack\Seecrack\bin\Release\net8.0\Seecrack.deps.json
+C:\Users\gpour\source\repos\Seecrack\Seecrack\bin\Release\net8.0\Seecrack.runtimeconfig.json
+C:\Users\gpour\source\repos\Seecrack\Seecrack\bin\Release\net8.0\Seecrack.dll
+C:\Users\gpour\source\repos\Seecrack\Seecrack\bin\Release\net8.0\Seecrack.pdb
+C:\Users\gpour\source\repos\Seecrack\Seecrack\bin\Release\net8.0\Memory.dll
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\Seecrack.csproj.AssemblyReference.cache
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\Seecrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\Seecrack.AssemblyInfoInputs.cache
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\Seecrack.AssemblyInfo.cs
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\Seecrack.csproj.CoreCompileInputs.cache
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\Seecrack.csproj.Up2Date
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\Seecrack.dll
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\refint\Seecrack.dll
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\Seecrack.pdb
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\Seecrack.genruntimeconfig.cache
+C:\Users\gpour\source\repos\Seecrack\Seecrack\obj\Release\net8.0\ref\Seecrack.dll
